@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-#### #30NitesOfCode:[Check out my progress!](https://www.codedex.io/@needc00kies/30-nites-of-code)  
+##### #30NitesOfCode: [Check out my progress!](https://www.codedex.io/@needc00kies/30-nites-of-code)  
   ![@needc00kies #30NitesOfCode](https://www.codedex.io/api/petStatus?user=needc00kies)
