@@ -1,10 +1,15 @@
-## Hi there 👋
+### hey there ☺️ 🐕
+i'm amadea, a new & aspiring coder 🧸 💻
+
+check out my progress at [codex](https://www.codedex.io/@needc00kies/30-nites-of-code)  & meet my codex pet hipposaur 🦛
+
+  ![@needc00kies #30NitesOfCode](https://www.codedex.io/api/petStatus?user=needc00kies)
 
 <!--
 **amadeahong/amadeahong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-# I'm Amadea, a new & aspiring coder!
+
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -15,5 +20,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-##### #30NitesOfCode: Meet hipposaur & [check out my progress!](https://www.codedex.io/@needc00kies/30-nites-of-code)  
-  ![@needc00kies #30NitesOfCode](https://www.codedex.io/api/petStatus?user=needc00kies)
+
